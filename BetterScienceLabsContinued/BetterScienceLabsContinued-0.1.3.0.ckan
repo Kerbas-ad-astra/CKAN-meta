@@ -1,15 +1,19 @@
 {
     "spec_version": "v1.4",
-    "author": "Linuxgurugamer",
-    "name": "Better Science Labs Continued",
-    "abstract": "More science labs",
     "identifier": "BetterScienceLabsContinued",
+    "name": "Better Science Labs Continued",
+    "abstract": "More science labs to fit with additional diameters and fuselages",
+    "author": "linuxgurugamer",
+    "license": "MIT",
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/125193",
         "kerbalstuff": "https://kerbalstuff.com/mod/903/Better%20Science%20Labs%20Continued",
         "repository": "https://github.com/linuxgurugamer/BetterScienceLabsContinued"
     },
+    "version": "0.1.3.0",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.0.4",
     "depends": [
         {
             "name": "ModuleManager"
@@ -24,10 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "ksp_version": "1.0.4",
-    "license": "MIT",
-    "version": "0.1.3.0",
     "download": "https://kerbalstuff.com/mod/903/Better%20Science%20Labs%20Continued/download/0.1.3.0",
-    "x_generated_by": "netkan",
-    "download_size": 2818576
+    "download_size": 2818576,
+    "x_generated_by": "netkan"
 }
